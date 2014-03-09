@@ -2,6 +2,8 @@
 
 So, you are interested in giving a talk at [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
+[](http://)
+
 What better way to submit a talk proposal than via GitHub! 
 
 ## Here is what to do
@@ -31,4 +33,4 @@ We are allowing 45 minutes for each talk, including time for setup and questions
 Proposals will be accepted until [30 March, 2014].
 
 Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
-[Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.
+[Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.!
