@@ -2,7 +2,7 @@
 
 So, you are interested in giving a talk at [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
-[](http://raw.github.com/CodeCampSDQ/cc40talks/master/Poster_FB-Charlista.png)
+![](http://raw.github.com/CodeCampSDQ/cc40talks/master/Poster_FB-Charlista.png)
 
 What better way to submit a talk proposal than via GitHub! 
 
