@@ -1,10 +1,10 @@
-# MOBILE APP DEVELOPMENT con Microsoft Lightswicth 2013
+# Apliccion Mobile con Microsoft Lightswicth 2013
 
 Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
 ![](http://raw.github.com/CodeCampSDQ/cc40talks/master/Poster_FB-Charlista.png)
 
-Propuesta de charla realizada por : Alexander Matos
+Propuesta de charla realizada por : Alexander Matos Olivo
 
 ## Contenido
 
@@ -20,17 +20,21 @@ Propuesta de charla realizada por : Alexander Matos
 
 ### Sobre el Charlista
 
-Please don't delete the example folder, as this will delete it in
-master when your pull request gets merged.
+MINISTERIO DE HACIENDA - CONSULTOR NACIONAL ARQUITECTO DE SOFTWARE: (2014)
+--------------------------------------------------------------------------
+Definir, elaborar y someter a aprobación normas, lineamientos y estándares de arquitectura de software para eldesarrollo y mantenimiento de las aplicaciones informáticas de la institución
 
-Please submit a separate pull request for each proposal, as we may want to
-accept only one of the talks.
+Establecer y proponer metodologas para el desarrollo y mantenimiento de las aplicaciones informáticas de la institución, aplicando buenas prácticas de la industria. Apoyar la definición de vistas de arquitectura de las aplicaciones según lo requieran las dependencias y supervisar que se cumplan.
 
-You can add any type of assets to support your proposal inside your folder.
-When a talk gets accepted we will press the lovely green merge button.
+Validar y supervisar que la definición de vistas de arquitectura de las aplicaciones que desarrollen terceros cumpla con los requisitos de negocio establecidos y tecnología utilizada.
 
-We are allowing 45 minutes for each talk, including time for setup and questions. 
-Proposals will be accepted until [30 March, 2014].
+Investigar, documentar y realizar prueba de conceptos de patrones de diseño, frameworks y tecnologías para resolver funciones comunes de negocio para la institución.
+
+Participar en reuniones técnicas del Comité de Desarrollo de Sistemas de la institución cuando sea requerido.
+
+DIRECCION GENERAL DE PROGRAMAS ESPECIALES - DIGEPEP: (2013 - 2014)
+------------------------------------------------------------------
+Contratista Proyecto "Quisqueya Aprende Contigo" - Portal Web para el manejo a nivel nacional de los  Nucleos de Alfabetizacion, Participantes, Alfabetizadores, Animadores, Logistica de materiales y Modulos de Control Internos, desarrollado para la WEB y utilizando tecnologias Microsoft como Lightswitch, Windows Azure, OData Services y SQL Azure
 
 Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com) 
 Facebook: [Facebook Alexander Matos](https://www.facebook.com/amatosolivo)
