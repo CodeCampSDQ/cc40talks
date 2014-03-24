@@ -20,7 +20,8 @@ Propuesta de charla realizada por : Alexander Matos Olivo
 
 ### Sobre el Charlista
 
-MINISTERIO DE HACIENDA - CONSULTOR NACIONAL ARQUITECTO DE SOFTWARE: (2014)
+#### MINISTERIO DE HACIENDA
+##### Consultor Nacional Arquitecto de Software
 --------------------------------------------------------------------------
 Definir, elaborar y someter a aprobación normas, lineamientos y estándares de arquitectura de software para eldesarrollo y mantenimiento de las aplicaciones informáticas de la institución
 
@@ -32,7 +33,9 @@ Investigar, documentar y realizar prueba de conceptos de patrones de diseño, fr
 
 Participar en reuniones técnicas del Comité de Desarrollo de Sistemas de la institución cuando sea requerido.
 
-DIRECCION GENERAL DE PROGRAMAS ESPECIALES - DIGEPEP: (2013 - 2014)
+#### DIGEPEP
+#### Dir. Gral. Programas Especiales de la Presidencia
+##### Lider de Desarrollo - Proyecto SIMAG
 ------------------------------------------------------------------
 Contratista Proyecto "Quisqueya Aprende Contigo" - Portal Web para el manejo a nivel nacional de los  Nucleos de Alfabetizacion, Participantes, Alfabetizadores, Animadores, Logistica de materiales y Modulos de Control Internos, desarrollado para la WEB y utilizando tecnologias Microsoft como Lightswitch, Windows Azure, OData Services y SQL Azure
 
