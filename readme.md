@@ -1,4 +1,5 @@
-# Aplicacion Mobil con Microsoft Lightswicth 2013
+# Aplicacion Mobil con Microsoft 
+# Lightswicth 2013
 
 Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
@@ -39,6 +40,6 @@ Participar en reuniones técnicas del Comité de Desarrollo de Sistemas de la in
 ------------------------------------------------------------------
 Contratista Proyecto "Quisqueya Aprende Contigo" - Portal Web para el manejo a nivel nacional de los  Nucleos de Alfabetizacion, Participantes, Alfabetizadores, Animadores, Logistica de materiales y Modulos de Control Internos, desarrollado para la WEB y utilizando tecnologias Microsoft como Lightswitch, Windows Azure, OData Services y SQL Azure
 
-Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com) 
-Facebook: [Facebook Alexander Matos](https://www.facebook.com/amatosolivo)
-Contacto directo: [Correo Gmail](amatosolivo@gmail.com)
+* Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com)
+* Facebook: [Facebook Alexander Matos](https://www.facebook.com/amatosolivo)
+* Contacto directo: [Correo Gmail](amatosolivo@gmail.com)
