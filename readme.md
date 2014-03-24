@@ -55,5 +55,5 @@ MAVEN y JIRA con la plataforma para aplicaciones WEB ORACLE WEBLOGIC.
 
 * Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com)
 * Facebook: [Facebook Alexander Matos](https://www.facebook.com/amatosolivo)
-* Contacto directo: [Correo Gmail: amatosolivo@gmail.com]
+* eMail: [amatosolivo@gmail.com]
 * Cel. (809)756-0773
