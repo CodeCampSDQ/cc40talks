@@ -1,24 +1,24 @@
-# CodeCampSDQ 4.0 Call for Proposals
+# MOBILE APP DEVELOPMENT con Microsoft Lightswicth 2013
 
-So, you are interested in giving a talk at [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
+Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
 ![](http://raw.github.com/CodeCampSDQ/cc40talks/master/Poster_FB-Charlista.png)
 
-What better way to submit a talk proposal than via GitHub! 
+Propuesta de charla realizada por : Alexander Matos
 
-## Here is what to do
+## Contenido
 
-1. Fork this repository
-2. Copy the sample folder `example/` to `your_name-talk_name`
-3. Edit the `README.md` file and type a good description about your talk
-   and about yourself
-4. Replace the `profile_picture.jpg` with a picture of yourself that we
-   can use to list you on the speakers page when you are accepted.
-5. Create a pull request of your fork. Consider using the title of your
-   talk as the pull request subject, as this makes the list of pull requests
-   enticing to read.
+1. Descripcion de la estructura de datos y la logica centralizada de negocios
+2. Definicion de relaciones, validacion y controles de acceso
+3. Uso de plantillas y sus diferentes implementaciones
+4. Ordenamiento de datos y filtrado (a nivel del servidor y de las pantallas)
+5. Definicion de Roles, Usuarios y Permisos
+6. Personalizado de la aplicacion a travez de JavaScripts y CSS
+7. Deploy en la Nube y su posterior mantenimiento y monitoreo
+8. Uso de TFS (Team Foundation Server) para CI (Continuous Integration)
+9. Bono (Expresiones Lambda a la carta)
 
-### Notes
+### Sobre el Charlista
 
 Please don't delete the example folder, as this will delete it in
 master when your pull request gets merged.
@@ -32,5 +32,6 @@ When a talk gets accepted we will press the lovely green merge button.
 We are allowing 45 minutes for each talk, including time for setup and questions. 
 Proposals will be accepted until [30 March, 2014].
 
-Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
-[Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.!
+Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com) 
+Facebook: [Facebook Alexander Matos](https://www.facebook.com/amatosolivo)
+Contacto directo: [Correo Gmail](amatosolivo@gmail.com)
