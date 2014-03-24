@@ -23,22 +23,37 @@ Propuesta de charla realizada por : Alexander Matos Olivo
 #### MINISTERIO DE HACIENDA
 ##### Consultor Nacional Arquitecto de Software
 --------------------------------------------------------------------------
-Definir, elaborar y someter a aprobación normas, lineamientos y estándares de arquitectura de software para eldesarrollo y mantenimiento de las aplicaciones informáticas de la institución
+> Definir, elaborar y someter a aprobación normas, lineamientos y estándares de arquitectura de software para eldesarrollo y mantenimiento de las aplicaciones informáticas de la institución
 
-Establecer y proponer metodologas para el desarrollo y mantenimiento de las aplicaciones informáticas de la institución, aplicando buenas prácticas de la industria. Apoyar la definición de vistas de arquitectura de las aplicaciones según lo requieran las dependencias y supervisar que se cumplan.
+> Establecer y proponer metodologas para el desarrollo y mantenimiento de las aplicaciones informáticas de la institución, aplicando buenas prácticas de la industria. Apoyar la definición de vistas de arquitectura de las aplicaciones según lo requieran las dependencias y supervisar que se cumplan.
 
-Validar y supervisar que la definición de vistas de arquitectura de las aplicaciones que desarrollen terceros cumpla con los requisitos de negocio establecidos y tecnología utilizada.
+> Validar y supervisar que la definición de vistas de arquitectura de las aplicaciones que desarrollen terceros cumpla con los requisitos de negocio establecidos y tecnología utilizada.
 
-Investigar, documentar y realizar prueba de conceptos de patrones de diseño, frameworks y tecnologías para resolver funciones comunes de negocio para la institución.
+> Investigar, documentar y realizar prueba de conceptos de patrones de diseño, frameworks y tecnologías para resolver funciones comunes de negocio para la institución.
 
-Participar en reuniones técnicas del Comité de Desarrollo de Sistemas de la institución cuando sea requerido.
+> Participar en reuniones técnicas del Comité de Desarrollo de Sistemas de la institución cuando sea requerido.
+
+> Dicha consultoria se basa en los conocimientos de JAVA, ORACLE y la utilizacion de herramientas de CI como 
+MAVEN y JIRA con la plataforma para aplicaciones WEB ORACLE WEBLOGIC.
 
 #### DIGEPEP
 #### Dir. Gral. Programas Especiales de la Presidencia
 ##### Lider de Desarrollo - Proyecto SIMAG
 ------------------------------------------------------------------
-Contratista Proyecto "Quisqueya Aprende Contigo" - Portal Web para el manejo a nivel nacional de los  Nucleos de Alfabetizacion, Participantes, Alfabetizadores, Animadores, Logistica de materiales y Modulos de Control Internos, desarrollado para la WEB y utilizando tecnologias Microsoft como Lightswitch, Windows Azure, OData Services y SQL Azure
+> Proyecto "Quisqueya Aprende Contigo" - Portal Web para el manejo a nivel nacional de los  Nucleos de Alfabetizacion, Participantes, Alfabetizadores, Animadores, Logistica de materiales y Modulos de Control Internos, desarrollado para la WEB y utilizando tecnologias Microsoft como Lightswitch, Windows Azure, OData Services y SQL Azure
+
+#### MESCYT
+#### Diplomado en Programacion .Net
+##### Instructor
+------------------------------------------------------------------
+> En los 3 ultimos ciclos he impartido los modulos de :
+  1- ADO.Net, LINQ y Lambda Expressions en .Net Framework 4.5
+  2- Desarrollo de Aplicaciones Web Usando .Net Framework 4.5 WebForms
+  3- Desarrollo de Aplicaciones Web Usando .Net Framework 4.5 MVC y Lightswitch
+  
+### Contacto
 
 * Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com)
 * Facebook: [Facebook Alexander Matos](https://www.facebook.com/amatosolivo)
-* Contacto directo: [Correo Gmail](amatosolivo@gmail.com)
+* Contacto directo: [Correo Gmail: amatosolivo@gmail.com]
+* Cel. (809)756-0773
