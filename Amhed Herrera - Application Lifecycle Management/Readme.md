@@ -1,4 +1,5 @@
 Información del charlista: http://www.amhedh.com
+
 Actualmente Lead Software Developer en [CREDLI.COM](http://www.credli.com)
 
 Me gustaría tratar el tema de software lifecycle management. Básicamente hablar de nuestra experiencia como equipo en CREDLI.
