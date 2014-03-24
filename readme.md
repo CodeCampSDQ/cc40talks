@@ -1,8 +1,8 @@
-# Apliccion Mobile con Microsoft Lightswicth 2013
+# Aplicacion Mobil con Microsoft Lightswicth 2013
 
 Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
-![](http://raw.github.com/CodeCampSDQ/cc40talks/master/Poster_FB-Charlista.png)
+![](http://github.com/amatosolivo/cc40talks/blob/master/Poster-LightswitchApp.png)
 
 Propuesta de charla realizada por : Alexander Matos Olivo
 
