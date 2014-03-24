@@ -2,7 +2,7 @@
 
 Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
-![](https://github.com/amatosolivo/cc40talks/blob/master/Poster-LightswitchApp.png)
+![](https://raw.githubusercontent.com/amatosolivo/cc40talks/master/Poster-LightswitchApp.png)
 
 Propuesta de charla realizada por : Alexander Matos Olivo
 
