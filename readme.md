@@ -1,5 +1,4 @@
-# Aplicacion Mobil con Microsoft 
-Lightswicth 2013
+# MOBILE APP con Microsoft Lightswicth 2013
 
 Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
