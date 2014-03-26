@@ -4,7 +4,9 @@ Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
 ![](https://raw.githubusercontent.com/amatosolivo/cc40talks/master/Poster-LightswitchApp.png)
 
-Propuesta de charla realizada por : Alexander Matos Olivo
+Lightswitch es ya una increible herramienta RAD incorporada en Visual Studio desde la version 2012, posee todo lo necesario para el desarrollo rapido de aplicaciones WEB, Desktop y Mobiles con un minino de esfuerzo y un resultado extraordinario en poco tiempo.  Todo el desarrollo se sustenta de una estructura preparada para soportar miles de usuarios y publicar las reglas de negocio a manera de servicios sin que tengas que hacer nada para disponer de manera inmediata de servicios OData o REST.
+
+La ultima actualizacion incorpora un acople total con la nube de Microsoft "Azure" de forma que puedas hacer publica tu aplicacion en cuestion de minutos.
 
 ## Contenido
 
@@ -20,37 +22,16 @@ Propuesta de charla realizada por : Alexander Matos Olivo
 
 ### Sobre el Charlista
 
-#### MINISTERIO DE HACIENDA
-##### Consultor Nacional Arquitecto de Software
+#### Programador de Nacimiento
 --------------------------------------------------------------------------
-> Definir, elaborar y someter a aprobación normas, lineamientos y estándares de arquitectura de software para eldesarrollo y mantenimiento de las aplicaciones informáticas de la institución
+> Desde mis inicios en la informatica, por alla por los 80's, me he sentido atraido por esta carrera y los retos que representa el constante proceso de aprendisaje.  En base a los proyectos emprendidos (buenos y malos) aprendes que el tiempo es vital pero nunca olvidando la calidad y la usabilidad del producto.
 
-> Establecer y proponer metodologas para el desarrollo y mantenimiento de las aplicaciones informáticas de la institución, aplicando buenas prácticas de la industria. Apoyar la definición de vistas de arquitectura de las aplicaciones según lo requieran las dependencias y supervisar que se cumplan.
+> Lightswitch se ha convertido en una herramienta maravillosa para alcanzar estos dos elementos importantes de nuestro mercado que por mas decir ya es bastante competitivo.
 
-> Validar y supervisar que la definición de vistas de arquitectura de las aplicaciones que desarrollen terceros cumpla con los requisitos de negocio establecidos y tecnología utilizada.
+#### Hobies
+--------------------------------------------------------------------------
+> PC Gaming, Gym Time, Sleep (Cuando se puede), Dar claes......
 
-> Investigar, documentar y realizar prueba de conceptos de patrones de diseño, frameworks y tecnologías para resolver funciones comunes de negocio para la institución.
-
-> Participar en reuniones técnicas del Comité de Desarrollo de Sistemas de la institución cuando sea requerido.
-
-> Dicha consultoria se basa en los conocimientos de JAVA, ORACLE y la utilizacion de herramientas de CI como 
-MAVEN y JIRA con la plataforma para aplicaciones WEB ORACLE WEBLOGIC.
-
-#### DIGEPEP
-#### Dir. Gral. Programas Especiales de la Presidencia
-##### Lider de Desarrollo - Proyecto SIMAG
-------------------------------------------------------------------
-> Proyecto "Quisqueya Aprende Contigo" - Portal Web para el manejo a nivel nacional de los  Nucleos de Alfabetizacion, Participantes, Alfabetizadores, Animadores, Logistica de materiales y Modulos de Control Internos, desarrollado para la WEB y utilizando tecnologias Microsoft como Lightswitch, Windows Azure, OData Services y SQL Azure
-
-#### MESCYT
-#### Diplomado en Programacion .Net
-##### Instructor
-------------------------------------------------------------------
-> En los 3 ultimos ciclos he impartido los modulos de :
-  1- ADO.Net, LINQ y Lambda Expressions en .Net Framework 4.5
-  2- Desarrollo de Aplicaciones Web Usando .Net Framework 4.5 WebForms
-  3- Desarrollo de Aplicaciones Web Usando .Net Framework 4.5 MVC y Lightswitch
-  
 ### Contacto
 
 * Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com)
