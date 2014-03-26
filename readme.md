@@ -1,36 +1,40 @@
-# CodeCampSDQ 4.0 Call for Proposals
+# MOBILE APP con Microsoft Lightswicth 2013
 
-So, you are interested in giving a talk at [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
+Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
 
-![](http://raw.github.com/CodeCampSDQ/cc40talks/master/Poster_FB-Charlista.png)
+![](https://raw.githubusercontent.com/amatosolivo/cc40talks/master/Poster-LightswitchApp.png)
 
-What better way to submit a talk proposal than via GitHub! 
+Lightswitch es ya una increible herramienta RAD incorporada en Visual Studio desde la version 2012, posee todo lo necesario para el desarrollo rapido de aplicaciones WEB, Desktop y Mobiles con un minino de esfuerzo y un resultado extraordinario en poco tiempo.  Todo el desarrollo se sustenta de una estructura preparada para soportar miles de usuarios y publicar las reglas de negocio a manera de servicios sin que tengas que hacer nada para disponer de manera inmediata de servicios OData o REST.
 
-## Here is what to do
+La ultima actualizacion incorpora un acople total con la nube de Microsoft "Azure" de forma que puedas hacer publica tu aplicacion en cuestion de minutos.
 
-1. Fork this repository
-2. Copy the sample folder `example/` to `your_name-talk_name`
-3. Edit the `README.md` file and type a good description about your talk
-   and about yourself
-4. Replace the `profile_picture.jpg` with a picture of yourself that we
-   can use to list you on the speakers page when you are accepted.
-5. Create a pull request of your fork. Consider using the title of your
-   talk as the pull request subject, as this makes the list of pull requests
-   enticing to read.
+## Contenido
 
-### Notes
+1. Descripcion de la estructura de datos y la logica centralizada de negocios
+2. Definicion de relaciones, validacion y controles de acceso
+3. Uso de plantillas y sus diferentes implementaciones
+4. Ordenamiento de datos y filtrado (a nivel del servidor y de las pantallas)
+5. Definicion de Roles, Usuarios y Permisos
+6. Personalizado de la aplicacion a travez de JavaScripts y CSS
+7. Deploy en la Nube y su posterior mantenimiento y monitoreo
+8. Uso de TFS (Team Foundation Server) para CI (Continuous Integration)
+9. Bono (Expresiones Lambda a la carta)
 
-Please don't delete the example folder, as this will delete it in
-master when your pull request gets merged.
+### Sobre el Charlista
 
-Please submit a separate pull request for each proposal, as we may want to
-accept only one of the talks.
+#### Programador de Nacimiento
+--------------------------------------------------------------------------
+> Desde mis inicios en la informatica, por alla por los 80's, me he sentido atraido por esta carrera y los retos que representa el constante proceso de aprendisaje.  En base a los proyectos emprendidos (buenos y malos) aprendes que el tiempo es vital pero nunca olvidando la calidad y la usabilidad del producto.
 
-You can add any type of assets to support your proposal inside your folder.
-When a talk gets accepted we will press the lovely green merge button.
+> Lightswitch se ha convertido en una herramienta maravillosa para alcanzar estos dos elementos importantes de nuestro mercado que por mas decir ya es bastante competitivo.
 
-We are allowing 45 minutes for each talk, including time for setup and questions. 
-Proposals will be accepted until [30 March, 2014].
+#### Hobies
+--------------------------------------------------------------------------
+> PC Gaming, Gym Time, Sleep (Cuando se puede), Dar claes......
 
-Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
-[Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.!
+### Contacto
+
+* Blog Personal: [De Programacion y Algo Mas](http://deprogramacionyalgomas.blogspot.com)
+* Facebook: [Facebook Alexander Matos](https://www.facebook.com/amatosolivo)
+* eMail: [amatosolivo@gmail.com]
+* Cel. (809)756-0773
