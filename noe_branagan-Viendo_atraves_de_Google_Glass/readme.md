@@ -4,7 +4,7 @@
 
 Google Glass, seguramente ya has escuchado sobre esto, pero que realmente podemos hacer con el o como podemos desarrollar aplicaciones para el. En esta charla mostraremos información practica sobre Google Glass desde la perspectiva de un usuario y también daremos una introducción sobre como desarrollar y construir un Glassware para Google Glass utilizando el Glass Development Kit (GDK).
 
-# SOBE NOE
+# Sobre Noe
 
 ### Noe Branagan
 
