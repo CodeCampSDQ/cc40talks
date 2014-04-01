@@ -8,6 +8,6 @@ Google Glass, seguramente ya has escuchado sobre esto, pero que realmente podemo
 
 ### Noe Branagan
 
-El papa de Enock. Desarrollo de Software con más de 10 años de experiencia, especializado en desarrollo de aplicaciones móviles. Organizador de GDG Santo Domingo. Miembro del BlackBerry Developer Elite program. Comprometido a contribuir con la comunidad de desarrolladores tanto en el país como en el exterior. Trainer, charlista. Senior Android Developer en Orange Dominicana.
+El papa de Enock. Desarrollador de Software con más de 10 años de experiencia, especializado en desarrollo de aplicaciones móviles. Organizador de GDG Santo Domingo. Miembro del BlackBerry Developer Elite program. Comprometido a contribuir con la comunidad de desarrolladores tanto en el país como en el exterior. Trainer, charlista. Senior Android Developer en Orange Dominicana.
 
 https://plus.google.com/+NoeBranagan
