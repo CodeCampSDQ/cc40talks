@@ -1,7 +1,5 @@
 # MOBILE APP con Microsoft Lightswicth 2013
 
-Charla a ser impartida en el [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ)?
-
 ![](https://raw.githubusercontent.com/amatosolivo/cc40talks/master/Poster-LightswitchApp.png)
 
 Lightswitch es ya una increible herramienta RAD incorporada en Visual Studio desde la version 2012, posee todo lo necesario para el desarrollo rapido de aplicaciones WEB, Desktop y Mobiles con un minino de esfuerzo y un resultado extraordinario en poco tiempo.  Todo el desarrollo se sustenta de una estructura preparada para soportar miles de usuarios y publicar las reglas de negocio a manera de servicios sin que tengas que hacer nada para disponer de manera inmediata de servicios OData o REST.
