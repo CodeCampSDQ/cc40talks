@@ -16,17 +16,17 @@ La ultima actualizacion incorpora un acople total con la nube de Microsoft "Azur
 8. Uso de TFS (Team Foundation Server) para CI (Continuous Integration)
 9. Bono (Expresiones Lambda a la carta)
 
-### Sobre el Charlista
+### Sobre Alexander
 
-#### Programador de Nacimiento
+#### Alexander Matos
 --------------------------------------------------------------------------
-> Desde mis inicios en la informatica, por alla por los 80's, me he sentido atraido por esta carrera y los retos que representa el constante proceso de aprendisaje.  En base a los proyectos emprendidos (buenos y malos) aprendes que el tiempo es vital pero nunca olvidando la calidad y la usabilidad del producto.
+> Fiebru de la programacion y de los patrones de diseno, tirador experto en FPS para PC (Elergic to Console Games), entuciasta, proactivo, que le gusta ensenar lo que sabe y compartir los conocimientos.  Miembro de varias comunidades se reparte como puede entre la familia, los proyectos y aportar.
 
-> Lightswitch se ha convertido en una herramienta maravillosa para alcanzar estos dos elementos importantes de nuestro mercado que por mas decir ya es bastante competitivo.
+> Actualmente se desenvuelve como Aquitecto de Software en el Ministerio de Hacienda - Proyecto PAFI y vive buscando el moro perdido en cuestiones de mejoria de codigo.
 
 #### Hobies
 --------------------------------------------------------------------------
-> PC Gaming, Gym Time, Sleep (Cuando se puede), Dar claes......
+> PC Gaming, Gym, Dar claes, Autoaprendizaje, Compartir......
 
 ### Contacto
 
