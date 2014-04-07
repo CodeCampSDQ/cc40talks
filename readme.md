@@ -4,7 +4,7 @@
 ¿Que mejor manera de somoter una charla para [CodeCampSDQ 4.0](http://facebook.com/CodeCampSDQ) que usando GitHub? 
 
 ## Esto es lo que debes hacer.
-1. hasle `Fork` al repositorio
+1. Hazle `Fork` al repositorio
 2. Copia el **folder ejemplo** `example/` y renombralo `tu_nombre-titulo-de-charla`
 3. Edita el archivo `README.md` **(en TU folder)** y escribe una buena descripción de tu charla y una breve biografia profesional sobre tí.
 4. Reemplaza el archivo `profile_picture.jpg` **(en TU folder)**  con una foto para **listarla en website cuando tu charla sea aceptada.**
