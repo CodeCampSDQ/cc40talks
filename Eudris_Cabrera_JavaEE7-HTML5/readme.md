@@ -17,7 +17,7 @@ Incluye los temas:
 ###Sobre Eudris Cabrera
 
 
-Eudris Cabrera es graduado de Ingeniería Telemática en la PUCMM (2006). Desarrollador Java EE / SE desde hace más de 6 años.
+Eudris Cabrera es graduado de Ingeniería Telemática en la PUCMM (2006). Desarrollador Java EE / SE desde hace más de 7 años.
 
 Entusiasta de la tecnología y el software libre, charlista ocasional y colaborador en eventos tecnológicos para desarrolladores como Barcamp STI  y  IX Feria del Libro y VI Feria de Tecnología Educativa de Universidad Abierta para Adultos (UAPA).
 
