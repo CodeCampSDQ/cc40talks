@@ -1,7 +1,6 @@
 ##Introducción a Java EE 7 & HTML 5
+####Aspectos más novedosos para el desarrollo de aplicaciones empresariales.
 
-Aspectos más novedosos para el desarrollo de aplicaciones empresariales.
----------------------------------------------------------------------------
 
 Java Enterprise Edition 7 fue lanzada en Junio del 2013, el primer lanzamiento importante de la versión java para entorno empresarial desde que Oracle tomó el control de la plataforma en el 2010. Un gran avance que busca satisfacer las necesidades de los programadores y desarrolladores de aplicaciones.
 
@@ -15,8 +14,8 @@ Incluye los temas:
 * Java API para WebSockets.
 * Java API para procesamiento JSON
 
-Sobre Eudris Cabrera
-----------------------
+###Sobre Eudris Cabrera
+
 
 Eudris Cabrera es graduado de Ingeniería Telemática en la PUCMM (2006). Desarrollador Java EE / SE desde hace más de 6 años.
 
