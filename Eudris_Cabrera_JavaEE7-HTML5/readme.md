@@ -7,7 +7,7 @@ Java Enterprise Edition 7 fue lanzada en Junio del 2013, el primer lanzamiento i
 El paquete de novedades lanzado por Java trae consigo una serie de mejoras de especial interés. La más destacable y esperada es su novedosa infraestructura escalable. Simplifica de manera relevante el análisis y intercambio de datos, lo que implica una reducción considerable de los tiempos de respuesta y, como consecuencia final, facilita la creación de aplicaciones usando HTML5.
 
 
-En nuestra charla nos enformaremos en destacar los aspectos más novedosos que ofrece esta nueva versión de java para el desarrollo de aplicaciones empresariales. Especialmente en el soporte para HTML5 y otras tecnologías relacionadas.
+En esta charla se enfocarán los aspectos más novedosos que ofrece esta nueva versión de java para el desarrollo de aplicaciones empresariales. Especialmente en el soporte para HTML5 y otras tecnologías relacionadas.
 
 Incluye los temas:
 * Java API para Servicios REST (JAX-RS).
