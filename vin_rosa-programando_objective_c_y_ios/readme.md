@@ -12,6 +12,6 @@ Conoce el lenguaje de programación Objective-C utilizado en los sistemas operat
 
 ### Vin Rosa
 
-Ing. de Telepática graduado en la Pontificia Universidad Católica Madre y Maestra. Más de 7 años de experiencia en desarrollo de aplicaciones, servicios web y aplicaciones móviles en las plataformas más comunes. 
+Ing. de Telemática graduado en la Pontificia Universidad Católica Madre y Maestra. Más de 7 años de experiencia en desarrollo de aplicaciones, servicios web y aplicaciones móviles en las plataformas más comunes. 
 
 http://www.linkedin.com/in/vinrosa
