@@ -28,5 +28,6 @@ Es miembro del equipo de desarrollo de Astive Toolkit Toolkit (http://astivetool
 Más información en:
 * [Linkedin](http://do.linkedin.com/in/eudriscabrera)
 * [Slideshare](http://www.slideshare.net/eudris)
+* [Twitter](https://twitter.com/eudriscabrera)
 * [Introducción a Java EE 7 & HTML 5](http://www.slideshare.net/eudris/introduccin-a-java-ee-7-html5)
 
